@@ -1,6 +1,10 @@
 Print(Zaryab)
 Print(roll.no 02)
-a=2
+t=2
 b=4
-c=a+b
+c=t+b
+print(c)
+a=6
+b=5
+d=a-b
 print(c)
