@@ -8,3 +8,7 @@ a=6
 b=5
 d=a-b
 print(c)
+a=5
+r=2
+g=a*r
+print(g)
